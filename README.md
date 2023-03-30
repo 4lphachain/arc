@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Replace onnx2tf usage from CLI to Python (#8429)
