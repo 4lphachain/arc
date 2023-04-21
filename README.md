@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add type hinting to explorer.py (#7388)
