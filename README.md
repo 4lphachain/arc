@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Move Explorer tests to scheduled CI (#8305)
