@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
