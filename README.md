@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add docstrings to new HUB functions (#7576)
