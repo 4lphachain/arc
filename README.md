@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update H1 in Explorer API docs (#7813)
