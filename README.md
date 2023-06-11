@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Replacing Images for torchscript.md (#8596)
