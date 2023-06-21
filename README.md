@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Update Discord and Contributing Guide URLs (#9270)
