@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix Yolo 8.0.206 scale bug (#7821)
