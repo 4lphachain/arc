@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
