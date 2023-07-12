@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
