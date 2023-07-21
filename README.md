@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
