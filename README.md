@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add type hinting to explorer.py (#7388)
