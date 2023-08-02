@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
