@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Docs updates and improvements (#8183)
