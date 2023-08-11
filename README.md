@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Mkdocs annotations fixes (#7600)
