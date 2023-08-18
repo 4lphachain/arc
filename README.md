@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
