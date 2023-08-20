@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
