@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Move Explorer tests to scheduled CI (#8305)
