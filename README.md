@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
