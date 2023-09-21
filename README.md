@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Capitalize OBB acronym (#7383)
