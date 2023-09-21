@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Update OpenVINO INT8 export (#7515)
