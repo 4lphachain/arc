@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
