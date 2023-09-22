@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update pyproject.toml and Docs (#7274)
