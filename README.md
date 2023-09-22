@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Elaborate Train and Predict mode docs arguments (#8137)
