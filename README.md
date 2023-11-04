@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
