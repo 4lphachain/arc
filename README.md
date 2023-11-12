@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
