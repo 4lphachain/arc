@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Clean up unused imgsz (#7771)
