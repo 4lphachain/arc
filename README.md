@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
