@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
