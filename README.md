@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
