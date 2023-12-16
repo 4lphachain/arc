@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
