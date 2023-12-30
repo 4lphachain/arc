@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
