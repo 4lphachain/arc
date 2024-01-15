@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update the heatmap module code + docs (#7045)
