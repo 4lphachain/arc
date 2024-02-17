@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Fix OBB xywh-angle concatenation bug (#7404)
