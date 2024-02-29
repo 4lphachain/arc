@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+add logs
