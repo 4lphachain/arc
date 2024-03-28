@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
