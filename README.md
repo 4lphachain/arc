@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Update neural-magic.md (#7347)
