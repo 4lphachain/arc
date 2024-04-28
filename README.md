@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update H1 in Explorer API docs (#7813)
