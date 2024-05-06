@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix Neural Magic links (#9144)
