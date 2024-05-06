@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+fix for predicting with batch_size > 1 (#47)
