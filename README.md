@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Explorer with LanceDB, Actions and Docs updates (#7487)
