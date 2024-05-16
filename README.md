@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
