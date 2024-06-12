@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
