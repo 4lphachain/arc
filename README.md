@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add docstrings to new HUB functions (#7576)
