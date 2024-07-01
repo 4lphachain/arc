@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Remove unused variables (#8511)
