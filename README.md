@@ -1,1 +1,1 @@
-fix predict with class filter
+Update Twitter icon in Docs (#7711)
