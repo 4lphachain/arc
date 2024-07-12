@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
