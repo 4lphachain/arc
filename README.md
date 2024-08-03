@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
