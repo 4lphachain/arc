@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update HTTP to HTTPS (#7548)
