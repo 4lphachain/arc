@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
