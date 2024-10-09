@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Compare plt.get_backend() in lowercase (#8409)
