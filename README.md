@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+fix yolo classify model loading error (#9196)
