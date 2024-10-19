@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
